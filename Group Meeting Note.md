@@ -22,6 +22,6 @@
       - R
 ## Project Preview (TBD)
     - Understand project scope
-    - Understand target product
-    - Data Exploration: Need to get raw data first
+    - Understand 神策数据日志官网格式说明
+    - Raw data Exploration
 

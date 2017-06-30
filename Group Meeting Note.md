@@ -17,7 +17,7 @@
 ## Meeting Method: 
     Google hangout? Zoom? (TBD)
 ## Tasks: 
- 1.Setup working environment.<#br>
+    Setup working environment.<#br>
      - Github: Make sure all members have access (Access invited)
      - R
 ## Setup Google Docs Note (Done)

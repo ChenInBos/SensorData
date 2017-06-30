@@ -6,21 +6,19 @@
     任奕宇: renyiyuap@gmail.com
     刘晨: chenliuma@gmail.com
 ## Project: 
-    Track 2, 神策数据log日志分析 [website](https://www.sensorsdata.cn/)
+    Track 2, 神策数据log日志分析 https://www.sensorsdata.cn/
 ## Programming Language: 
     R
 ## Github Repo: 
-### HTTP: https://github.com/ChenInBos/SensorData.git
-### SSH: git@github.com:ChenInBos/SensorData.git
- 
+    HTTP: https://github.com/ChenInBos/SensorData.git
+    SSH: git@github.com:ChenInBos/SensorData.git
 ## Meeting schedule: 
-### Every Tue, Wed, Sun. 7pm to 9pm EST. (Flexible)
+    Every Tue, Wed, Sun. 7pm to 9pm EST. (Flexible)
 ## Meeting Method: 
-### Google hangout? Zoom? (TBD)
- 
+    Google hangout? Zoom? (TBD)
 ## Tasks: 
-## Setup working environment. 
-### Github: Make sure all members have access (Access invited)
+ 1.Setup working environment.
+   Github: Make sure all members have access (Access invited)
 ### R
 ## Setup Google Docs Note (Done)
 ## Project Preview (TBD)

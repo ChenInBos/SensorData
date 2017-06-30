@@ -17,12 +17,11 @@
 ## Meeting Method: 
     Google hangout? Zoom? (TBD)
 ## Tasks: 
-    Setup working environment.<#br>
-     - Github: Make sure all members have access (Access invited)
-     - R
-## Setup Google Docs Note (Done)
+    1. Setup working environment.<#br>
+      - Github: Make sure all members have access (Access invited)
+      - R
 ## Project Preview (TBD)
-### Understand project scope
-### Understand target product
-### Data Exploration: Need to get raw data first
+    - Understand project scope
+    - Understand target product
+    - Data Exploration: Need to get raw data first
 

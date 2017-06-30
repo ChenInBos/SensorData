@@ -22,8 +22,8 @@
 
 ### Tasks: 
 * Setup working environment
-      * [Github](https://github.com/ChenInBos/SensorData)
-      * R
+     * [Github](https://github.com/ChenInBos/SensorData)
+     * R
       
 * Project Preview (TBD)
       * Understand project scope.

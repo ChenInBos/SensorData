@@ -1,10 +1,12 @@
 # Group 4 - SensorData data science Project group
 ### Memeber:
-* 王晟: ws87628@gmail.com
-* 任奕宇: renyiyuap@gmail.com
-* 刘晨: chenliuma@gmail.com
+* 王晟: [Email](ws87628@gmail.com), Github: nbbetry
+* 任奕宇: [Email](renyiyuap@gmail.com), Github: renyiyu
+* 刘晨: [Email](chenliuma@gmail.com), Github: ChenInBos
 ### Project: 
 * Track 2, 神策数据log日志分析. [神策数据](https://www.sensorsdata.cn/)
+* Project Scope: (TBD)
+* Project Duration: 30 days
 ### Programming Language: 
 * R
 ### Github Repo: 
@@ -20,11 +22,11 @@
 
 ### Tasks: 
 * Setup working environment
- * Github: Make sure all members have access (Access invited)
- * R
+      * [Github](https://github.com/ChenInBos/SensorData)
+      * R
       
-    2.Project Preview (TBD)
-    - Understand project scope.
-    - Understand 神策数据日志官网格式说明
-    - Raw data Exploration
+* Project Preview (TBD)
+      * Understand project scope.
+      * Understand 神策数据日志官网格式说明
+      * Raw data Exploration
 

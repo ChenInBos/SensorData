@@ -16,7 +16,7 @@
 * Every Tue, Wed, Sun. 7pm to 9pm EST. (Flexible)
 ### Meeting Method: 
 * Google hangout? Zoom? (TBD)
-
+---
 ## Group Meeting 1
 ### Date: 2017-06-30 
 
@@ -29,4 +29,5 @@
     * Understand project scope
     * Understand 神策数据日志官网格式说明
     * Raw data Exploration
+### Note:
 

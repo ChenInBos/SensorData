@@ -2,9 +2,9 @@
  
 ## Date: 2017-06-30 
 ## Memeber:
-    王晟: ws87628@gmail.com
-    任奕宇: renyiyuap@gmail.com
-    刘晨: chenliuma@gmail.com
+* 王晟: ws87628@gmail.com
+* 任奕宇: renyiyuap@gmail.com
+* 刘晨: chenliuma@gmail.com
 ## Project: 
     Track 2, 神策数据log日志分析 https://www.sensorsdata.cn/
 ## Programming Language: 

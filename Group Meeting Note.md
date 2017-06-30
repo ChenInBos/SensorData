@@ -22,6 +22,6 @@
       - R
 ## Project Preview (TBD)
     - Understand project scope
-    - Understand 神策数据日志官网格式说明
+    - Understand 神策数据日志官网格式说明
     - Raw data Exploration
 

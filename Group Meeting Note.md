@@ -20,7 +20,8 @@
     1. Setup working environment.<#br>
       - Github: Make sure all members have access (Access invited)
       - R
-## Project Preview (TBD)
+      
+    2.Project Preview (TBD)
     - Understand project scope
     - Understand 神策数据日志官网格式说明
     - Raw data Exploration
